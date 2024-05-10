@@ -4,6 +4,11 @@ title: Card Widget Plugin
 ---
 
 The card widget plugin provides the functionality for collapsing, expanding and removing a card. 
+{% link /assets/template/docs/components/cards.md %}
+# Card Widget
+
+Untuk informasi lebih lanjut, lihat [Cards](/assets/template/docs/components/cards.md).
+
 
 ##### Usage
 This plugin can be activated as a jQuery plugin or using the data api. 
@@ -16,8 +21,6 @@ This plugin provides two data-api attributes. Any element using one of the follo
 `data-card-widget="collapse"`
 <br />
 This attribute, when attached to a button, allows the box to be collapsed/expanded when clicked. 
-
-{% link ../../components/cards.md %}
 
 <div class="row">
   <div class="col-12 col-md-4">
