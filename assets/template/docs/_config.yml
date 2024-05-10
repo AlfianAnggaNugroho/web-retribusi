@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 navigation:
 - title: Installation
-  url: index.html
+  url: index.md
   icon: fas fa-microchip
 - title: Dependencies & Plugins
   url: dependencies.html
@@ -47,7 +47,7 @@ navigation:
     - title: Control Sidebar
       url: components/control-sidebar.html
     - title: Card
-      url: components/cards.html
+      url: components/cards.md
     - title: Small-/ Info-Box
       url: components/boxes.html
     - title: Direct Chat
