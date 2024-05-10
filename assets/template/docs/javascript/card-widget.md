@@ -12,7 +12,7 @@ This plugin can be activated as a jQuery plugin or using the data api.
 ###### Data API
 {: .text-bold }
 
-This plugin provides two data-api attributes. Any element using one of the following attributes should be placed within the `.card-tools` div, which is usually in the card header. For more information about the [card HTML structure]({% link components/cards.md %}), visit the card component documentation 
+This plugin provides two data-api attributes. Any element using one of the following attributes should be placed within the `.card-tools` div, which is usually in the card header. For more information about the [card HTML structure](/components/cards.md), visit the card component documentation.
 
 `data-card-widget="collapse"`
 <br />
@@ -28,7 +28,6 @@ This attribute, when attached to a button, allows the box to be collapsed/expand
         </div>
       </div>
       <div class="card-body">
-        <a href="{{ site.baseurl }}../components/index.md">
         The body of the card
       </div>
     </div>
