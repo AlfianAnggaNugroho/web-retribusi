@@ -104,3 +104,5 @@ navigation:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+verbose: true
