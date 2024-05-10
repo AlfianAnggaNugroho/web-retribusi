@@ -1,9 +1,4 @@
 RewriteEngine On
-RewriteBase /web-retribusi/
-
-# Jika file atau direktori ada, gunakan langsung
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-
-# Jika tidak, arahkan ke index.php di dalam direktori application
-RewriteRule ^(.*)$ application/login.php/$1 [L]
+RewriteRule ^(.*)$ index.php/$1 [L]
