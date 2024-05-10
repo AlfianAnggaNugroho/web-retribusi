@@ -3,7 +3,7 @@ layout: page
 title: Control Sidebar Component
 ---
 
-Control sidebar is the right sidebar. It can be used for many purposes and is extremely easy to create. The sidebar ships with two different show/hide styles. The first allows the sidebar to slide over the content. The second pushes the content to make space for the sidebar. Either of these methods can be set through the [JavaScript options]({% link javascript/control-sidebar.md %}). 
+This plugin provides two data-api attributes. Any element using one of the following attributes should be placed within the `.card-tools` div, which is usually in the card header. For more information about the [card HTML structure](/javascript/control-sidebar.md), visit the card component documentation.
 
 The following code should be placed within the `.wrapper` div. I prefer to place it right after the footer.
 
