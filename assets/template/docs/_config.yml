@@ -6,8 +6,8 @@ baseurl: /docs/3.2
 url: https://adminlte.io
 
 plugins:
-  theme: jekyll-theme-minimal
-  title: Octocat's homepage
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 navigation:
   - title: Installation
