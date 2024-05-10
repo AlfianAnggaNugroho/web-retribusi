@@ -1,6 +1,9 @@
 <IfModule authz_core_module>
-    Require all denied
+    # Izinkan akses ke file dan folder di dalam direktori aplikasi dan view
+    Require all granted
 </IfModule>
 <IfModule !authz_core_module>
-    Deny from all
+    # Izinkan akses ke file dan folder di dalam direktori aplikasi dan view
+    Order allow,deny
+    Allow from all
 </IfModule>
