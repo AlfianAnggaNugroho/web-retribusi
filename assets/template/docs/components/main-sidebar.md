@@ -3,8 +3,6 @@ layout: page
 title: Main Sidebar Component
 ---
 
-This plugin provides two data-api attributes. Any element using one of the following attributes should be placed within the `.card-tools` div, which is usually in the card header. For more information about the [card HTML structure](/javascript/push-menu.md), visit the card component documentation.
-
 ```html
 <!-- Main Sidebar Container -->
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
@@ -158,4 +156,4 @@ You can simply add this code after the `div.sidebar`:
 > You can also use `.text-sm` on `.nav-sidebar` or `.brand-link` for smaller font.
 {: .quote-info}
 
-For more information about the JS part of the sidebar, please visit the [PushMenu plugin page]({% link javascript/push-menu.md %})
+For more information about the JS part of the sidebar, please visit the [PushMenu plugin page](/javascript/push-menu.md)
