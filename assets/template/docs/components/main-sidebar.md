@@ -3,7 +3,7 @@ layout: page
 title: Main Sidebar Component
 ---
 
-The sidebar used in this page to the left provides an example of what your sidebar would look like. Construction of a sidebar: 
+This plugin provides two data-api attributes. Any element using one of the following attributes should be placed within the `.card-tools` div, which is usually in the card header. For more information about the [card HTML structure](/javascript/push-menu.md), visit the card component documentation.
 
 ```html
 <!-- Main Sidebar Container -->
