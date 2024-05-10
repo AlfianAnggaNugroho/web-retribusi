@@ -15,17 +15,17 @@ Visit the releases section on Github and download the [latest release](https://g
 
 ###### __Via NPM__
 ```bash
-npm install admin-lte@^3.0 --save
+npm install admin-lte@^3.2.0 --save
 ```
 
 ###### __Via Yarn__
 ```bash
-yarn add admin-lte@^3.0
+yarn add admin-lte@^3.2.0
 ```
 
 ###### __Via Composer__
 ```bash
-composer require "almasaeed2010/adminlte=~3.0"
+composer require "almasaeed2010/adminlte=~3.2.0"
 ```
 
 ###### __Via Git__
