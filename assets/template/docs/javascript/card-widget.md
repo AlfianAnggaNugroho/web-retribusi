@@ -194,4 +194,5 @@ Example: `$('#my-card').on('expanded.lte.cardwidget', handleExpandedEvent)`
 
 Example: `$('#my-card-widget').CardWidget('toggle')` or `$('#my-card').CardWidget('toggle')`
 
-{%- link components/cards.md -%}
+{% link components/cards.md %}
+
