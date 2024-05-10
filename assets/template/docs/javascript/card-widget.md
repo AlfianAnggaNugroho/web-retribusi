@@ -17,7 +17,7 @@ This plugin provides two data-api attributes. Any element using one of the follo
 <br />
 This attribute, when attached to a button, allows the box to be collapsed/expanded when clicked. 
 
-{% link ../components/cards.md %}
+{% link ../../components/cards.md %}
 
 <div class="row">
   <div class="col-12 col-md-4">
