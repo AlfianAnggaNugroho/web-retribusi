@@ -35,7 +35,7 @@ $config['base_url'] = 'https://alfianangganugroho.github.io/web-retribusi/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
