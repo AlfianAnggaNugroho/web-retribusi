@@ -4,10 +4,10 @@ title: Card Widget Plugin
 ---
 
 The card widget plugin provides the functionality for collapsing, expanding and removing a card. 
-{% link /assets/template/docs/components/cards.md %}
-# Card Widget
 
-Untuk informasi lebih lanjut, lihat [Cards](/assets/template/docs/components/cards.md).
+# Card Widget
+{% link ../components/cards.md %}
+Untuk informasi lebih lanjut, lihat [Cards](../components/cards.md).
 
 
 ##### Usage
