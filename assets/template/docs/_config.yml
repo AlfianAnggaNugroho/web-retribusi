@@ -46,7 +46,7 @@ navigation:
       url: components/main-sidebar.html
     - title: Control Sidebar
       url: components/control-sidebar.html
-    - title: Card
+    - title: Cards Component
       url: components/cards.md
     - title: Small-/ Info-Box
       url: components/boxes.html
