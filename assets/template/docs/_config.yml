@@ -39,8 +39,6 @@ navigation:
 - title: Components
   icon: fas fa-th
   url: components
-- title: Card
-  url: components/cards.md
   subitems: 
     - title: Main Header
       url: components/main-header.html
